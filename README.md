@@ -3,7 +3,7 @@ Front-end for repositories associated with the Epistemological Directories (EDs)
 
 The following repos are related to the Epistemological Directories (EDs):
 
-- Frontier Map [link](https://github.com/Orthogonal-Research-Lab/FrontierMap)  
+- Frontier Map [link](https://github.com/jesparent/FrontierMap)  
 
 - Knowledge Maps [link](https://github.com/Orthogonal-Research-Lab/Knowledge-Maps)  
 
