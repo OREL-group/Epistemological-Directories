@@ -15,8 +15,8 @@ The following repos are related to the Epistemological Directories (EDs):
 
 ## Submissions and Open Paper
 
-csv,conf 2020  [abstract](https://figshare.com/articles/presentation/Epistomological_Directories_EDs_for_Research_Development_and_Education/12156984)
+csv,conf 2020  [abstract](https://figshare.com/articles/presentation/Epistomological_Directories_EDs_for_Research_Development_and_Education/12156984), [YouTube](https://www.youtube.com/watch?v=fBcAV5g9C7s), [Slides](https://figshare.com/articles/presentation/Epistomological_Directories_EDs_for_Research_Development_and_Education/12156984)
 
-csv,conf 2021  [abstract]()
+csv,conf 2021  [abstract](https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/csv%2Cconf%20v6/Abstract.md)
 
 White paper/preprint  [GDoc](https://docs.google.com/document/d/1Zq0glXKG_aiqdizPMdaG1JIrYMgHQZp4mgVEG_PDD7s/edit)
